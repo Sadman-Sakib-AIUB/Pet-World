@@ -76,8 +76,8 @@
     <tr>
 
          <td><img src ="../images/icgender.png" width="18px"> Gender:</td>
-         <td><input type="radio" id="male" name="gender" value="Male"> Male
-         <input type="radio" id="female" name="gender" value="Female"> Female
+         <td><input type="radio" id="male" name="gender" value="male"> Male
+         <input type="radio" id="female" name="gender" value="female"> Female
         
         </td>
        
