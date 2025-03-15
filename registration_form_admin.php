@@ -117,7 +117,7 @@
 
         
     <tr>
-         <td colspan="2" align="center">
+         <td>
 
             <input type="submit" value="Register">
             <input type="reset" value="Reset">
@@ -130,26 +130,3 @@
 </body>
 </html>
 
-
-
-
-
-
-
-
-         
-
-        
-
-
-
-    
-
-
-
-
-
-
-
-</body>
-</html>
