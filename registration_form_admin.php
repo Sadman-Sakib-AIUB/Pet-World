@@ -15,8 +15,8 @@
     <table>
         <tr>
              <td><img src ="../images/icname.png" width="18px"> First Name:</td>
-             <td>  <input type="text" name="firstname" require></td>
-             <td> Last Name: <input type="text" name="lastname" require></td>
+             <td>  <input type="text" name="firstname" required></td>
+             <td> Last Name: <input type="text" name="lastname" required></td>
 
 </tr>
 
